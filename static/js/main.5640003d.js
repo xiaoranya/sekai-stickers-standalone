@@ -20636,6 +20636,24 @@
                                         primary: "Contributors",
                                         secondary: "for the help with the code"
                                     })]
+                                }), (0,
+                                    h.jsxs)(rd, {
+                                        button: !0,
+                                        onClick: function() {
+                                            return window.location.href = "https://github.com/xiaoranya/sekai-stickers-standalone"
+                                        },
+                                        children: [(0,
+                                        h.jsx)(fd, {
+                                            children: (0,
+                                            h.jsx)(bd, {
+                                                alt: "xiaoran",
+                                                src: "https://avatars.githubusercontent.com/u/69465721?v=4"
+                                            })
+                                        }), (0,
+                                        h.jsx)(ud, {
+                                            primary: "xiaoran",
+                                            secondary: "本地版的移植与中国加速"
+                                        })]
                                 })]
                             }), (0,
                             h.jsx)(zc, {
@@ -20689,12 +20707,6 @@
                                         secondary: "Add more fun to your server."
                                     })]
                                 })
-                            }), (0,
-                            h.jsxs)(zc, {
-                                variant: "h6",
-                                component: "h3",
-                                children: ["Total stickers made using the app:", (0,
-                                h.jsx)("br", {}), null !== r && void 0 !== r && r.global ? (null === r || void 0 === r ? void 0 : r.global.toLocaleString()) + " Sticker" : "not available"]
                             })]
                         })
                     }), (0,
