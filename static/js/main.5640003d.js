@@ -22583,11 +22583,6 @@
                             children: [(0,
                             h.jsx)(Ns, {
                                 color: "secondary",
-                                onClick: Q,
-                                children: "copy"
-                            }), (0,
-                            h.jsx)(Ns, {
-                                color: "secondary",
                                 onClick: q,
                                 children: "download"
                             })]
