@@ -22346,10 +22346,6 @@
                     })]
                 }), (0,
                 h.jsxs)("div", {
-                    className: "counter",
-                    children: ["Total Stickers you made: ", (null === n || void 0 === n ? void 0 : n.total) || "Not available"]
-                }), (0,
-                h.jsxs)("div", {
                     className: "container",
                     children: [(0,
                     h.jsxs)("div", {
